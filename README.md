@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-This github repository is holds our Safe RL blog about the CRABS algorithm: https://lars-chen.github.io/rl-blog/learning-barrier-certificates/
+This github repository is holds our Safe RL blog about the CRABS algorithm: https://safe-rl-team.github.io/barrier-certificates/
 
 ## Based on
 
